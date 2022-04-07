@@ -258,7 +258,7 @@ a {
 }
 
 .about__popup {
-  background-image: url(/images/video-bg.jpg);
+  background-image: url(../images/video-bg.jpg);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
